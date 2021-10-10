@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="conductor (21bcc28b-043a-4342-8a2e-16eadf376e46)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+            <mapping local="$USER_HOME$/unmanaged_software/esp-idf" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="performer (6a69c52e-49c3-4c7f-b5d7-8fc74421618e)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+            <mapping local="$USER_HOME$/unmanaged_software/esp-idf" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

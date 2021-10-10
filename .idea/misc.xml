@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeWorkspace" PROJECT_DIR="$PROJECT_DIR$" />
+  <component name="CidrRootsConfiguration">
+    <excludeRoots>
+      <file path="$PROJECT_DIR$/build" />
+      <file path="$USER_HOME$/unmanaged_software/esp-idf/.github" />
+      <file path="$USER_HOME$/unmanaged_software/esp-idf/.gitlab" />
+      <file path="$USER_HOME$/unmanaged_software/esp-idf/cmake-build-debug" />
+      <file path="$USER_HOME$/unmanaged_software/esp-idf/components" />
+      <file path="$USER_HOME$/unmanaged_software/esp-idf/docs" />
+      <file path="$USER_HOME$/unmanaged_software/esp-idf/examples" />
+      <file path="$USER_HOME$/unmanaged_software/esp-idf/make" />
+      <file path="$USER_HOME$/unmanaged_software/esp-idf/tools" />
+    </excludeRoots>
+  </component>
+</project>
